@@ -2,6 +2,6 @@
 .swiper {
   height: 360rpx;
 }
-.swiper .swiper-item image {
+.swiper .swiper-item-image {
   width: 100%;
 }

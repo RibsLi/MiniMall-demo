@@ -5,9 +5,9 @@
         autoplay='true'
         circular='true'
         interval='3000'>
-  <block wx:for="{{banners}}" wx:key="{{index}}">
+  <block wx:for="{{banners}}" wx:key="index">
     <swiper-item class="swiper-item">
-      <image src="{{item.image}}" mode="widthFix"/>
+      <image src="{{item.image}}" class="swiper-item-image" mode="widthFix"/>
     </swiper-item>
   </block>
 </swiper>

@@ -38,7 +38,7 @@
     "navigationBarBackgroundColor": "#ff5777",
     "navigationBarTextStyle": "white",
     "navigationBarTitleText": "购物街",
-    "backgroundColor": "#eeeeee",
+    "backgroundColor": "#eee",
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": false
   },
