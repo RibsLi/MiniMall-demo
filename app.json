@@ -1,0 +1,10 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/category/category",
+    "pages/cart/cart",
+    "pages/profile/profile"
+  ],
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
