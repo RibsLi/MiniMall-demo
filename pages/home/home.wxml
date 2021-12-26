@@ -1,2 +1,6 @@
 <!--pages/home/home.wxml-->
-<banners list="{{banners}}"/>
+<banners banners="{{banners}}"/>
+<recommends recommends="{{recommends}}"/>
+<view>
+  <image src="../../assets/images/home/recommend_bg.jpg" class="image" mode="widthFix"/>
+</view>

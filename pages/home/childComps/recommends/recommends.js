@@ -1,12 +1,12 @@
-// components/banners.js
+// components/recommends/recommends.js
 Component({
   /**
    * 组件的属性列表
    */
   properties: {
-    banners: {
+    recommends: {
       type: Array,
-      value: []
+      value:[]
     }
   },
 
