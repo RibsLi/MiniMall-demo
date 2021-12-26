@@ -1,0 +1,4 @@
+<!--pages/home/childComps/popular/popular.wxml-->
+<view>
+  <image src="../../../../assets/images/home/recommend_bg.jpg" class="image" mode="widthFix"/>
+</view>

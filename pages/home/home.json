@@ -1,7 +1,9 @@
 {
   "usingComponents": {
     "banners": "/components/banners/banners",
-    "recommends": "./childComps/recommends/recommends"
+    "recommends": "./childComps/recommends/recommends",
+    "popular": "./childComps/popular/popular"
+    
   },
   "navigationBarTitleText": "购物街",
   "enablePullDownRefresh": true,
