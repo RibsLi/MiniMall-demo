@@ -1,4 +1,0 @@
-<!--pages/home/childComps/feature/Feature.wxml-->
-<view class="feature">
-  <image src="/assets/images/home/feature.jpg" class="feature-image" mode="widthFix"/>
-</view>

@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "首页",
-  "enablePullDownRefresh": true,
-  "usingComponents": {
-    "banner": "/components/banner/Banner",
-    "recommend": "./childComps/recommend/Recommend",
-    "feature": "./childComps/feature/Feature"
-  }
-}

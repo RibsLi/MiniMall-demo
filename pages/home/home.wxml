@@ -1,7 +1,0 @@
-<!--pages/home/home.wxml-->
-<!-- 轮播 -->
-<banner banners="{{banners}}"/>
-<!-- 推荐 -->
-<recommend recommends="{{recommends}}"/>
-<!-- 本周流行 -->
-<feature/>

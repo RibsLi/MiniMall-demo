@@ -1,4 +1,0 @@
-/* pages/home/childComps/feature/Feature.wxss */
-.feature-image {
-  width: 100%;
-}
