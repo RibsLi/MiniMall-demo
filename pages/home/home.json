@@ -2,7 +2,8 @@
   "usingComponents": {
     "banners": "/components/banners/banners",
     "recommends": "./childComps/recommends/recommends",
-    "popular": "./childComps/popular/popular"
+    "popular": "./childComps/popular/popular",
+    "tab-control": "/components/tab-control/tab-control"
     
   },
   "navigationBarTitleText": "购物街",

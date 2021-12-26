@@ -2,3 +2,10 @@
 <banners banners="{{banners}}"/>
 <recommends recommends="{{recommends}}"/>
 <popular/>
+<tab-control titles="{{titles}}" bind:tabClick="tabClick"/>
+<view class="goods">
+  <block wx:for="{{goods[currentType].list}}" wx:key="index">
+    <image src="{{item.show.img}}"></image>
+    <view>{{item.title}}</view>
+  </block>
+</view>
